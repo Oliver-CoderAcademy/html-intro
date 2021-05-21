@@ -1,0 +1,31 @@
+h1 {
+    color: brown;
+    font-size: 70px;
+}
+
+#secondHeading {
+    color: green;
+    font-size: 20px;
+}
+
+div {
+    font-size: 30px;
+    font-family: "Comic Sans MS", "Comic Sans";
+    color: purple;
+}
+
+#divTwo {
+    color: orange;
+}
+
+.subHeading {
+    color: blue;
+    font-size: 45px;
+}
+
+.myClass {
+    color: red;
+}
+
+
+
